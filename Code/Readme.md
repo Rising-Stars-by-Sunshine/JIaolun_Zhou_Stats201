@@ -12,6 +12,17 @@ The purpose of the data visualization code in this article is to gain insights i
 
 In addition, visualizing the data can help identify any potential issues or outliers that may need to be addressed before modeling. For example, if there are extreme values or missing data points, they may need to be dealt with before proceeding with analysis. Overall, data visualization plays a crucial role in helping researchers gain a deeper understanding of the data and its underlying patterns, which can ultimately lead to more accurate predictions and improved patient outcomes.
 
+# Justification
+In my research, I utilize diabetes data sourced from the World Health Organization (WHO), which is highly credible due to several reasons. Firstly, the WHO is a reputable international body that sets global health standards and guidelines based on rigorous scientific evidence and consensus among leading experts in the field of medicine and public health. It maintains stringent protocols for data collection, analysis, and reporting, ensuring accuracy and reliability.
+
+Secondly, the diabetes data published by the WHO is often derived from large-scale population studies, national health surveys, and systematic reviews, which are subject to peer review and quality control measures. This ensures that the statistics represent the most up-to-date and comprehensive understanding of the disease burden worldwide.
+
+Thirdly, the organization has a commitment to transparency and impartiality, making its methodologies and data sources openly available for scrutiny by the scientific community. This transparency promotes verification and replication of findings, further bolstering the credibility of the information.
+
+Lastly, the WHO collaborates with member states and other authoritative bodies in healthcare, thus leveraging diverse expertise and resources across the globe. As such, the data it compiles reflect a broad and inclusive perspective on diabetes prevalence, incidence, management, and related complications.
+
+Therefore, using WHO data in my study provides a strong foundation for my research conclusions because of the organization's established reputation, methodological rigor, transparency, and extensive network of collaborators in the healthcare sector.
+
 #### Data Query
 
 ![data_process](./data_pro.png)
